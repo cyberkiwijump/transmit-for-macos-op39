@@ -1,4 +1,4 @@
-# 
+# new Transmit for macOS Script | bookmark-manager + file-encryption offers the most advanced Transmit for macOS script, with bookmark-manager and file-encryption. Ideal for macOS
 
 
 
